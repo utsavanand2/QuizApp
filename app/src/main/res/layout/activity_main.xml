@@ -26,7 +26,9 @@
                 android:focusableInTouchMode="true"
                 android:padding="12dp"
                 android:text="question"
-                android:textAlignment="center" />
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <RadioGroup
                 android:id="@+id/radio_group"
@@ -69,7 +71,9 @@
                 android:padding="12dp"
                 android:paddingTop="12dp"
                 android:text="question"
-                android:textAlignment="center" />
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <EditText
                 android:id="@+id/edit_text_for_answer2"
@@ -88,7 +92,9 @@
                 android:layout_marginTop="20dp"
                 android:padding="12dp"
                 android:text="question"
-                android:textAlignment="center" />
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <EditText
                 android:id="@+id/edit_text_for_answer3"
@@ -106,7 +112,9 @@
                 android:layout_marginTop="20dp"
                 android:padding="12dp"
                 android:text="question"
-                android:textAlignment="center" />
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <android.support.v7.widget.AppCompatCheckBox
                 android:layout_width="match_parent"
@@ -144,7 +152,9 @@
                 android:layout_marginTop="20dp"
                 android:padding="12dp"
                 android:text="question"
-                android:textAlignment="center" />
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <RadioGroup
                 android:layout_width="match_parent"
